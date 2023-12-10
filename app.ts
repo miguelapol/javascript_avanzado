@@ -7,6 +7,8 @@ const listaNumeros=[12,21,33,55,44,25,88,4];
 
 //usamos el destructuring en js en arrays y objetos
 
-const [posicion1,posicion2,posicion3,...restoDeElementos]=listaNumeros;
+// const [posicion1,posicion2,posicion3,...restoDeElementos]=listaNumeros;
 //aqui lo que haces agrupar los arrays de los restos de elementos
-console.log(posicion1,posicion2,posicion3,restoDeElementos);
+// console.log(posicion1,posicion2,posicion3,restoDeElementos);
+//si quisieramos 
+
